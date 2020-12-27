@@ -89,6 +89,11 @@
             <artifactId>pagehelper</artifactId>
             <version>5.2.0</version>
         </dependency>
+        <!--Mybatis代码生成器-->
+        <dependency>
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-core</artifactId>
+        </dependency>
         <!--SpringData工具包-->
         <dependency>
             <groupId>org.springframework.data</groupId>
